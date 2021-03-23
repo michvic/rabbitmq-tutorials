@@ -1,0 +1,2 @@
+11:36:49.389 [warning] AMQP 0-9-1 client call timeout was 60000 ms, is updated to a safe effective value of 70000 ms
+ [x] Sent 'Hello World!'
